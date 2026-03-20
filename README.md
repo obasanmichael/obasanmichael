@@ -1,6 +1,6 @@
 # Hi there, I'm Michael Obasan 👋
 
-Welcome to my digital space. I'm a **Full-Stack Web Developer** passionate about crafting beautiful, scalable, and high-performance web applications and websites for companies worldwide.
+Welcome to my digital space. I'm a **Full-Stack Web Developer** that likes crafting beautiful, scalable, and high-performance web applications and websites for companies worldwide.
 
 ## 💼 What I Do
 
