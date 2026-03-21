@@ -45,12 +45,6 @@ Welcome to my digital space. I'm a **Full-Stack Web Developer** passionate about
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
-
-[![obasanmichael's GitHub stats](https://github-readme-stats.vercel.app/api?username=obasanmichael&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/obasanmichael)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obasanmichael&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/obasanmichael)
-
 ## 🎯 What Sets Me Apart
 
 - **Client-Focused**: I understand business needs and translate them into elegant technical solutions  
@@ -65,14 +59,6 @@ Welcome to my digital space. I'm a **Full-Stack Web Developer** passionate about
 - Implementing responsive, accessible, and performant user interfaces  
 - Developing robust backend systems with focus on security and scalability  
 - Creating seamless user experiences through strategic design and implementation
-
-## 🌟 Highlights
-
-- ✨ Specialized in end-to-end web application development  
-- 🎨 Experienced in UI/UX implementation with pixel-perfect design  
-- ⚡ Passionate about performance optimization and best practices  
-- 🔐 Strong focus on security, testing, and maintainability  
-- 🤝 Collaborative developer with excellent communication skills
 
 ## 🔗 Let's Connect
 
